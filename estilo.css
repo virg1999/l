@@ -14,11 +14,13 @@ tr{
     color: blue;
     
 }
-body{
-    background-color: rgb(245, 129, 164);
+
+body {
+    background-color: rgb(253, 127, 215); 
+        
 }
 label{
-    color: rgb(231, 204, 204);
+    color: rgb(236, 120, 120);
 }
 input{
     background-color: yellow;
